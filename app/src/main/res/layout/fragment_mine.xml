@@ -362,8 +362,8 @@
 
                 <TextView
                     style="@style/setting_item_configure"
-                    android:drawableStart="@mipmap/youhuijuan"
-                    android:text="@string/mine_youhuiquan" />
+                    android:drawableStart="@mipmap/guanyuwomen"
+                    android:text="@string/mine_guanuwomen" />
 
                 <TextView
                     android:id="@+id/mine_about_tv"
@@ -376,8 +376,8 @@
 
                 <TextView
                     style="@style/setting_item_configure"
-                    android:drawableStart="@mipmap/youhuijuan"
-                    android:text="@string/mine_youhuiquan" />
+                    android:drawableStart="@mipmap/kefu"
+                    android:text="@string/mine_kehufuwu" />
 
                 <TextView
                     android:id="@+id/mine_serve_tv"

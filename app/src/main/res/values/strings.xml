@@ -82,4 +82,17 @@
     <string name="refund_cause">退款原因:</string>
     <string name="refund_user">退款联系人:</string>
     <string name="refund_phone">联系方式:</string>
+
+    <string name="refund_detail_number">订单编号:</string>
+    <string name="refund_detail_cause">取消/退款原因:</string>
+    <string name="refund_detail_progress">取消/退款进度:</string>
+    <string name="refund_detail_the">退款明细</string>
+    <string name="refund_detail_online">在线支付:</string>
+
+    <string name="wallet">钱包</string>
+    <string name="wallet_remain">余额:</string>
+    <string name="wallet_yuan">元</string>
+    <string name="wallet_get">提现</string>
+    <string name="wallet_rule">*提现规则</string>
+
 </resources>
